@@ -2,8 +2,7 @@
 
 Welcome to the **Snake Game**, a classic arcade game built using **HTML**, **CSS**, and **JavaScript**. Control the snake, eat the food, and grow as much as you can while avoiding collisions with the walls or yourself. 🚀
 
-![Snake Game Demo](https://via.placeholder.com/800x400?text=Demo+Image)  
-*Image: Screenshot of the Snake Game in action*
+![image](https://github.com/user-attachments/assets/96d9b272-ea36-4a4f-bd19-7ac692e59e61)
 
 ---
 
@@ -82,8 +81,8 @@ Contributions are welcome! If you'd like to enhance the game or fix bugs, feel f
 ## 📧 Contact
 
 For any inquiries or suggestions, feel free to reach out:
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **GitHub**: [Your GitHub Profile](https://github.com/your-username)
+- **Email**: atharv.golait@gmail.com
+- **GitHub**: ATHARVISM2804
 
 ---
 
